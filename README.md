@@ -1,6 +1,6 @@
- [x] Name at least three things that an operating system is responsible for handling?
+ [] Name at least three things that an operating system is responsible for handling?
 
- [x] Write a program in C, `lsls.c`, that prints out a directory listing for the
+ [] Write a program in C, `lsls.c`, that prints out a directory listing for the
 directory the user specifies on the command line
 
 # Sprint-Challenge: Intro to C and Operating Systems
